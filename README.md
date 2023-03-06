@@ -1,5 +1,6 @@
 # Assingment-game-4096-
 This is an assignment given by Bytebeam technology,i solve this assignment at codesand box
+
 Tech Stack-ReactJS,JavaScript,Html,Css
 
 The Game is similar with 2048 game
